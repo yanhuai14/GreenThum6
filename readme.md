@@ -1,0 +1,1 @@
+Description: GreenThumb is a gardening assistant app that takes the guesswork out of plant care. With a database of thousands of plants, personalized care reminders, and a platform to consult with fellow gardeners, GreenThumb makes it easy to cultivate your green space.

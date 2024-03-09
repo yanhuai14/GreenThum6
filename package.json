@@ -1,0 +1,26 @@
+{
+"name": "GreenThum6",
+"version": "1.0.0",
+"description": "GreenThumb is a gardening assistant app that takes the guesswork out of plant care",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/yanhuai14/GreenThum6.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "yanhuai14",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
